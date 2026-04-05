@@ -8,7 +8,7 @@ const NavBar = () => {
      <nav className='container mx-[100PX] flex items-center justify-between cursor-pointer'>
 
 <div className='text-2xl font-bold'>
-    <h1>mohsen</h1>
+    <h1>mohsen.dev</h1>
 </div>
   <div>
   <HashLink
